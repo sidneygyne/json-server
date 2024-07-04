@@ -291,10 +291,10 @@
     },
     {
       "id": 9,
-      "titulo": "Inovação, Tecnologia e Novas Tendências ",
-      "descricao": "Qual o papel do indivíduo em um mundo exponencial? Apontando para questões relativas às incertezas provocadas pelos avanços tecnológicos Arthur Igreja mostra que todas as transformações devem ser vistas como um espaço para tornar o ser mais humano.",
-      "imagem": "https://opresenterural.com.br/wp-content/uploads/2023/05/Arthur-Igreja-2-e1684439132380.jpg",
-      "link": "https://www.youtube.com/embed/DyLJH_Q48s8",
+      "titulo": "",
+      "descricao": "",
+      "imagem": "",
+      "link": "",
       "categoria": "INOVAÇÃO"
     },
     {
@@ -315,19 +315,19 @@
     },
     {
       "id": 12,
-      "titulo": "O Poder da Inovação | Marcus Linhares | ",
-      "descricao": "Norteado pelo tema 'O poder do IN', a palestra trata da evolução do pensamento empreendedor, da concepção de inovação por pendências ou tendências, da relação entre inovação, tecnologia e empreendedorismo.",
-      "imagem": "https://i.ytimg.com/vi/BsDifn_0AmE/maxresdefault.jpg",
-      "link": "https://www.youtube.com/embed/BsDifn_0AmE",
+      "titulo": "Criatividade e inovação no trabalho.",
+      "descricao": "Criatividade e inovação no trabalho. Toda Importância para se destacar no mercado.",
+      "imagem": "https://abriminhaempresa.com/wp-content/uploads/2023/10/Criatividade-e-Inovacao-no-Trabalho.jpg",
+      "link": "https://www.youtube.com/embed/6Q94wOEiO84",
       "categoria": "INOVAÇÃO"
     },
     {
       "id": 13,
-      "titulo": "Inovação: uma escolha pelo desenvolvimento sustentável",
-      "descricao": "Neste talk, Marcos Almada fala sobre como a escolha pela inovação pode ser o melhor investimento para o desenvolvimento de um território.",
-      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_BpczHka9OvV7kanS3EHLs8IYGST64kykNw&s",
-      "link": "https://www.youtube.com/embed/jtW_lhz91EI",
-      "categoria": "INOVAÇÃO"
+      "titulo": "Gestão de negócios. O que é?",
+      "descricao": "Gestão de negócios. O que é? Veja em 10 pilares obrigatórios na gestão de negócios.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bc7VDLolorspZCaB74Cjz5fayekyOMf0YA&s",
+      "link": "https://www.youtube.com/embed/roy-pY7pmwM",
+      "categoria": "GESTÃO"
     },
     {
       "id": 14,
@@ -339,11 +339,11 @@
     },
     {
       "id": 15,
-      "titulo": "O Profissional do Futuro",
-      "descricao": "Nessa Ted Talk Michelle fala sobre o profissional do futuro. Ela aborda a evolução do mercado de trabalho nos últimos anos e as mudanças que a tecnologia trouxe e ainda vai trazer nos próximos anos.",
-      "imagem": "https://i.ytimg.com/vi/9G5mS_OKT0A/maxresdefault.jpg",
-      "link": "https://www.youtube.com/embed/9G5mS_OKT0A",
-      "categoria": "GESTÃO"
+      "titulo": "Steven Johnson: Como nasce a inovação",
+      "descricao": "A inovação não vem em um momento 'eureka'. São mais de 20 anos pesquisando e escrevendo sobre inovações. ",
+      "imagem": "https://i.ytimg.com/vi/2A8qwMaxhfc/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/2A8qwMaxhfc",
+      "categoria": "INOVAÇÃO"
     },
     {
       "id": 16,
